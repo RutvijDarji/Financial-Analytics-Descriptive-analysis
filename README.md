@@ -16,3 +16,8 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 * How do the financial health indicators (e.g., debt-to-equity ratio, current ratio) differ among companies in different sectors?
 * Financial health indicators varied among sectors, with companies in different sectors showcasing distinct performance. For instance, while the Current Ratio reflected sufficient liquidity in certain sectors, others demonstrated varying levels of financial stress or inefficiencies based on profitability metrics. Additionally, the Interest Coverage Ratio indicated varied capabilities of companies to service debt obligations, highlighting differences in financial health across sectors.
 
+![Dashboard 2](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/544ad108-29c1-4025-96d2-431458f30353)
+
+* Can we identify any emerging sectors with high growth potential based on their financial metrics?
+* Analysis of revenue growth rate and earnings per share indicated potential emerging sectors with high growth prospects. Sectors exhibiting high and sustained revenue growth, along with increasing earnings per share, were identified as attractive to investors. Furthermore, understanding changes in estimated shares outstanding provided insights into potential dilution or share buyback activities, further enhancing sector evaluation for growth potential.
+
