@@ -9,6 +9,10 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 * Dashboarding and Visualization: Utilizing Power BI to create interactive dashboards and visualizations presenting key indicators clearly and concisely, facilitating identification of patterns and actionable insights.
 # Research Questions and their Solutions
 * How does the profitability of companies in different sectors vary over time?
-The analysis revealed varying profitability levels across sectors. Notably, the Consumer Discretionary sector exhibited diverse profitability levels, with Apple Inc. leading in gross profit, showcasing strong revenue generation. However, disparities in profit margins suggest potential for improved operational efficiency and cost management strategies. Applied Materials Inc. demonstrated robust financial health, marked by improving liquidity ratios, rising profitability metrics, and steady average gross profit, positioning it well for future growth.
+* The analysis revealed varying profitability levels across sectors. Notably, the Consumer Discretionary sector exhibited diverse profitability levels, with Apple Inc. leading in gross profit, showcasing strong revenue generation. However, disparities in profit margins suggest potential for improved operational efficiency and cost management strategies. Applied Materials Inc. demonstrated robust financial health, marked by improving liquidity ratios, rising profitability metrics, and steady average gross profit, positioning it well for future growth.
 
 ![Dashboard1](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/7ae02dbb-49b3-41d9-9dbc-f4a6e1d1c51b)
+
+* How do the financial health indicators (e.g., debt-to-equity ratio, current ratio) differ among companies in different sectors?
+* Financial health indicators varied among sectors, with companies in different sectors showcasing distinct performance. For instance, while the Current Ratio reflected sufficient liquidity in certain sectors, others demonstrated varying levels of financial stress or inefficiencies based on profitability metrics. Additionally, the Interest Coverage Ratio indicated varied capabilities of companies to service debt obligations, highlighting differences in financial health across sectors.
+
