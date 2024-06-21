@@ -28,3 +28,8 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 * How efficiently do companies in different sectors utilize their resources (e.g., inventory turnover, asset turnover)?
 * Efficiency of resource utilization varied among sectors, as indicated by metrics such as Days Sales of Inventory and Days Inventory Outstanding. Companies showcased differing inventory turnover rates and payment cycles, influencing overall operational efficiency. Moreover, the Cash Conversion Life Cycle provided insights into companies' efficiency in converting investments into cash flows, highlighting varying operational efficiencies across sectors.
 
+![Dashboard5](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/7d332e10-1b15-4e8c-8078-375147161e8d)
+
+* Does Research and Development investment prove beneficial to companies gross profit over the period of time?
+* The impact of Research and Development (R&D) investment on gross profit over time was assessed. Companies with higher levels of R&D investment demonstrated a commitment to innovation and long-term growth potential within the sector. Analysis indicated a positive correlation between R&D investment and gross profit, suggesting the beneficial impact of innovation on financial performance.
+
