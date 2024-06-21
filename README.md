@@ -33,3 +33,8 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 * Does Research and Development investment prove beneficial to companies gross profit over the period of time?
 * The impact of Research and Development (R&D) investment on gross profit over time was assessed. Companies with higher levels of R&D investment demonstrated a commitment to innovation and long-term growth potential within the sector. Analysis indicated a positive correlation between R&D investment and gross profit, suggesting the beneficial impact of innovation on financial performance.
 
+![Dashboard6](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/dc58f6fb-0284-4c30-89e1-be8fd486d8a5)
+
+# Tools
+* GoogleColab (Python) : Data Cleaning and Data Preprocessing
+* PowerBi : Data Visulization 
