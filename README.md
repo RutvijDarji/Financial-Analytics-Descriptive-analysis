@@ -21,3 +21,10 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 * Can we identify any emerging sectors with high growth potential based on their financial metrics?
 * Analysis of revenue growth rate and earnings per share indicated potential emerging sectors with high growth prospects. Sectors exhibiting high and sustained revenue growth, along with increasing earnings per share, were identified as attractive to investors. Furthermore, understanding changes in estimated shares outstanding provided insights into potential dilution or share buyback activities, further enhancing sector evaluation for growth potential.
 
+![Dasboard3](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/310757ef-fe58-40cf-99a6-617cc87fbf19)
+
+![Dashboard4](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/458412bd-7728-4467-826e-a1e398d52c3b)
+
+* How efficiently do companies in different sectors utilize their resources (e.g., inventory turnover, asset turnover)?
+* Efficiency of resource utilization varied among sectors, as indicated by metrics such as Days Sales of Inventory and Days Inventory Outstanding. Companies showcased differing inventory turnover rates and payment cycles, influencing overall operational efficiency. Moreover, the Cash Conversion Life Cycle provided insights into companies' efficiency in converting investments into cash flows, highlighting varying operational efficiencies across sectors.
+
