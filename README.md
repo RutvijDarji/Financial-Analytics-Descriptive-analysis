@@ -10,3 +10,5 @@ The objectives of this analysis are multifaceted. Firstly, we aim to uncover key
 # Research Questions and their Solutions
 * How does the profitability of companies in different sectors vary over time?
 The analysis revealed varying profitability levels across sectors. Notably, the Consumer Discretionary sector exhibited diverse profitability levels, with Apple Inc. leading in gross profit, showcasing strong revenue generation. However, disparities in profit margins suggest potential for improved operational efficiency and cost management strategies. Applied Materials Inc. demonstrated robust financial health, marked by improving liquidity ratios, rising profitability metrics, and steady average gross profit, positioning it well for future growth.
+
+![Dashboard1](https://github.com/RutvijDarji/Financial-Analytics-Descriptive-analysis/assets/80823722/7ae02dbb-49b3-41d9-9dbc-f4a6e1d1c51b)
